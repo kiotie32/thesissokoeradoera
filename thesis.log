@@ -1,0 +1,1714 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.5.8)  15 MAY 2020 13:14
+entering extended mode
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (iiitg.cls
+Document Class: iiitg 
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/bas
+e\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/bas
+e\bk11.clo"
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/too
+ls\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks14
+\AP@partial=\box45
+\AP@footins=\box46
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/mak
+ecell\makecell.sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/too
+ls\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box47
+\extrarowheight=\dimen136
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+\rotheadsize=\dimen137
+\c@nlinenum=\count176
+\TeXr@lab=\toks16
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/too
+ls\tabularx.sty"
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen138
+\TX@old@table=\dimen139
+\TX@old@col=\dimen140
+\TX@target=\dimen141
+\TX@delta=\dimen142
+\TX@cols=\count177
+\TX@ftn=\toks17
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/too
+ls\longtable.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count178
+\LTcapwidth=\dimen143
+\LT@head=\box49
+\LT@firsthead=\box50
+\LT@foot=\box51
+\LT@lastfoot=\box52
+\LT@cols=\count179
+\LT@rows=\count180
+\c@LT@tables=\count181
+\c@LT@chunks=\count182
+\LT@p@ftn=\toks18
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/emp
+typage\emptypage.sty"
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/cha
+ngepage\changepage.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count183
+\cp@tempcnt=\count184
+LaTeX Info: Redefining \ch@ngetext on input line 80.
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/bas
+e\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/pdf
+pages\pdfpages.sty"
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/too
+ls\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count185
+\calc@Bcount=\count186
+\calc@Adimen=\dimen144
+\calc@Bdimen=\dimen145
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count187
+\calc@Cskip=\skip57
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/eso
+-pic\eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/a
+tbegshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/i
+nfwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/l
+txcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/i
+ftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/xco
+lor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+\AM@pagewidth=\dimen148
+\AM@pageheight=\dimen149
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/pdf
+pages\pppdftex.def"
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box53
+\AM@global@opts=\toks20
+\AM@pagecnt=\count188
+\AM@toc@title=\toks21
+\c@AM@survey=\count189
+\AM@templatesizebox=\box54
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen150
+\epsfysize=\dimen151
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+math\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+math\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen152
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+math\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks23
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks24
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks25
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/geo
+metry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/i
+ftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen161
+\Gm@wd@mp=\dimen162
+\Gm@odd@mp=\dimen163
+\Gm@even@mp=\dimen164
+\Gm@layoutwidth=\dimen165
+\Gm@layoutheight=\dimen166
+\Gm@layouthoffset=\dimen167
+\Gm@layoutvoffset=\dimen168
+\Gm@dimlist=\toks27
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/geo
+metry\geometry.cfg"))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/jkn
+appen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/alg
+orithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/flo
+at\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count271
+\float@exts=\toks28
+\float@box=\box57
+\@float@everytoks=\toks29
+\@floatcapt=\box58
+)
+\@float@every@algorithm=\toks30
+\c@algorithm=\count272
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/alg
+orithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/alg
+orithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count273
+\c@ALG@rem=\count274
+\c@ALG@nested=\count275
+\ALG@tlm=\skip61
+\ALG@thistlm=\skip62
+\c@ALG@Lnr=\count276
+\c@ALG@blocknr=\count277
+\c@ALG@storecount=\count278
+\c@ALG@tmpcounter=\count279
+\ALG@tmplength=\skip63
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/xlt
+abular\xltabular.sty"
+Package: xltabular 2020/03/20 v0.2c `xltabular' package (hv,RN)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/lta
+blex\ltablex.sty"
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/url
+\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ary
+dshln\arydshln.sty"
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen169
+\dashlinegap=\dimen170
+\adl@box=\box59
+\adl@height=\dimen171
+\adl@heightsave=\dimen172
+\adl@depth=\dimen173
+\adl@depthsave=\dimen174
+\adl@finaldepth=\dimen175
+\adl@columns=\count280
+\adl@ncol=\count281
+\adl@currentcolumn=\count282
+\adl@currentcolumnsave=\count283
+\adl@totalheight=\count284
+\adl@totalheightsave=\count285
+\adl@dash=\count286
+\adl@gap=\count287
+\adl@cla=\count288
+\adl@clb=\count289
+\adl@everyvbox=\toks31
+\adl@LTpagetotal=\dimen176
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/pro
+gram\program.sty"
+\@gtempa=\dimen177
+\@gtempa=\dimen178
+\@gtempa=\dimen179
+\@gtempa=\dimen180
+\@gtempa=\dimen181
+\@gtempa=\dimen182
+\@gtempa=\dimen183
+\@gtempa=\dimen184
+\@gtempa=\dimen185
+\@gtempa=\dimen186
+\@gtempa=\dimen187
+\@gtempa=\dimen188
+\@gtempa=\dimen189
+\@gtempa=\dimen190
+\@gtempa=\dimen191
+\@gtempa=\dimen192
+\@gtempa=\dimen193
+\@gtempa=\dimen194
+\@gtempa=\dimen195
+\@gtempa=\dimen196
+\@gtempa=\dimen197
+\@gtempa=\dimen198
+\@gtempa=\dimen199
+\@gtempa=\dimen256
+\@gtempa=\dimen257
+\@gtempa=\dimen258
+\@gtempa=\dimen259
+\@gtempa=\dimen260
+\@gtempa=\dimen261
+\@gtempa=\dimen262
+\@gtempa=\dimen263
+\@gtempa=\dimen264
+\@gtempa=\dimen265
+\@gtempa=\dimen266
+\@gtempa=\dimen267
+\@gtempa=\dimen268
+\@gtempa=\dimen269
+\@gtempa=\dimen270
+\@gtempa=\dimen271
+\@gtempa=\dimen272
+\@gtempa=\dimen273
+\@gtempa=\dimen274
+\@gtempa=\dimen275
+\@gtempa=\dimen276
+\@gtempa=\dimen277
+\@gtempa=\dimen278
+\@gtempa=\dimen279
+\@gtempa=\dimen280
+\@gtempa=\dimen281
+\@gtempa=\dimen282
+\c@programline=\count290
+\old@nxttabmar=\count291
+\symeulerletters=\mathgroup5
+\powersetbox=\box60
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 84
+1.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/jkn
+appen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+eur on input line 841
+.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+fonts\ueur.fd"
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/com
+ment\comment.sty"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+fonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \Bbb on input line 113.
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+fonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+
+! LaTeX Error: Command `\lneq' already defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 ...mbol{\lneq}         {\mathrel}{AMSb}{"0C}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/eps
+topdf-pkg\epstopdf.sty"
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/grf
+ext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/k
+vdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/kvo
+ptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/k
+vsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/pdf
+texcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/eps
+topdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/too
+ls\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/sub
+fig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/cap
+tion\caption.sty"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/cap
+tion\caption3.sty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen283
+\captionmargin@=\dimen284
+\captionwidth=\dimen285
+\caption@tempdima=\dimen286
+\caption@indent=\dimen287
+\caption@parindent=\dimen288
+\caption@hangindent=\dimen289
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count292
+\c@continuedfloat=\count293
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/cap
+tion\ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+))
+\c@KVtest=\count294
+\sf@farskip=\skip64
+\sf@captopadj=\dimen290
+\sf@capskip=\skip65
+\sf@nearskip=\skip66
+\c@subfigure=\count295
+\c@subfigure@save=\count296
+\c@lofdepth=\count297
+\c@subtable=\count298
+\c@subtable@save=\count299
+\c@lotdepth=\count300
+\sf@top=\skip67
+\sf@bottom=\skip68
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/mul
+tirow\multirow.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip69
+\multirow@cntb=\count301
+\multirow@dima=\skip70
+\bigstrutjot=\dimen291
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count302
+\rotFPtop=\skip71
+\rotFPbot=\skip72
+\rot@float@box=\box61
+\rot@mess@toks=\toks33
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/psn
+fss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/gra
+phics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/foo
+tmisc\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks34
+\footnotemargin=\dimen292
+\c@pp@next@reset=\count303
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/boo
+ktabs\booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen293
+\lightrulewidth=\dimen294
+\cmidrulewidth=\dimen295
+\belowrulesep=\dimen296
+\belowbottomsep=\dimen297
+\aboverulesep=\dimen298
+\abovetopsep=\dimen299
+\cmidrulesep=\dimen300
+\cmidrulekern=\dimen301
+\defaultaddspace=\dimen302
+\@cmidla=\count304
+\@cmidlb=\count305
+\@aboverulesep=\dimen303
+\@belowrulesep=\dimen304
+\@thisruleclass=\count306
+\@lastruleclass=\count307
+\@thisrulewidth=\dimen305
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/col
+ortbl\colortbl.sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks35
+\minrowclearance=\skip73
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/thr
+eeparttable\threeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box62
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+cls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks36
+\thm@bodyfont=\toks37
+\thm@headfont=\toks38
+\thm@notefont=\toks39
+\thm@headpunct=\toks40
+\thm@preskip=\skip74
+\thm@postskip=\skip75
+\thm@headsep=\skip76
+\dth@everypar=\toks41
+LaTeX Info: Redefining \qed on input line 274.
+
+
+! LaTeX Error: Command \proof already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.441 }
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/was
+\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/fan
+cyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip77
+\f@nch@O@elh=\skip78
+\f@nch@O@erh=\skip79
+\f@nch@O@olh=\skip80
+\f@nch@O@orh=\skip81
+\f@nch@O@elf=\skip82
+\f@nch@O@erf=\skip83
+\f@nch@O@olf=\skip84
+\f@nch@O@orf=\skip85
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 125.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 126.
+
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/cit
+e\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/bas
+e\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write4
+\openout4 = `thesis.idx'.
+
+
+Writing index file thesis.idx
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/hyp
+erref\hyperref.sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/p
+dfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/hyc
+olor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/let
+ltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/aux
+hook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen306
+\Hy@linkcounter=\count308
+\Hy@pagecounter=\count309
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/hyp
+erref\pd1enc.def"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/i
+ntcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/e
+texcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count310
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4421
+.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4421.
+Package hyperref Info: Option `plainpages' set `false' on input line 4421.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count311
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen307
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/b
+itset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/b
+igintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count312
+\Field@Width=\dimen308
+\Fld@charsize=\dimen309
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+\Hy@abspage=\count313
+\c@Item=\count314
+\c@Hfootnote=\count315
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/hyp
+erref\hpdftex.def"
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/atv
+eryend\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \AP@enddocument detected (standard20110627).
+)
+\Fld@listcount=\count316
+\c@bookmark@seq@number=\count317
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/rer
+unfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/u
+niquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip86
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/bre
+akurl\breakurl.sty"
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/xke
+yval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/x
+keyval\xkeyval.tex"
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/x
+keyval\xkvutils.tex"
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
+)
+\XKV@depth=\count318
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/i
+ftex\ifpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+)
+\c@thm=\count319
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/l3b
+ackend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count320
+\l__pdf_internal_box=\box63
+) (thesis.aux
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+25.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/psn
+fss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\AtBeginShipoutBox=\box64
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/context/b
+ase/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count321
+\scratchdimen=\dimen310
+\scratchbox=\box65
+\nofMPsegments=\count322
+\nofMParguments=\count323
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count324
+\MPscratchDim=\dimen311
+\MPnumerator=\count325
+\makeMPintoPDFobject=\count326
+\everyMPtoPDFconversion=\toks45
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/pdf
+lscape\pdflscape.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=2.03543pt
+* \headheight=9.03374pt
+* \headsep=18.06749pt
+* \topskip=11.0pt
+* \footskip=18.06749pt
+* \marginparwidth=72.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \celsius on input line 325.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 325
+.
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 325.
+Package gensymb Info: Using \Omega for \ohm on input line 325.
+
+Package gensymb Warning: Not defining \micro.
+
+Package hyperref Info: Link coloring ON on input line 325.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/hyp
+erref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ref
+count\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/generic/g
+ettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count327
+)
+LaTeX Info: Redefining \ref on input line 325.
+LaTeX Info: Redefining \pageref on input line 325.
+LaTeX Info: Redefining \nameref on input line 325.
+ (thesis.out) (thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+ [1
+
+
+{C:/Users/Bipin Kumar Mishr/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+pdfTeX warning (ext4): destination with the same identifier (name{bm:Title.0}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.332 	\makepreliminarypages
+                            
+Package epstopdf Info: Source file: <iiitglogo.eps>
+(epstopdf)                    date: 2020-05-11 00:12:24
+(epstopdf)                    size: 263501 bytes
+(epstopdf)             Output file: <iiitglogo-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-05-11 00:12:24
+(epstopdf)                    size: 6919 bytes
+(epstopdf)             Command: <epstopdf --outfile=iiitglogo-eps-converted-to.
+pdf iiitglogo.eps>
+(epstopdf)             \includegraphics on input line 332.
+Package epstopdf Info: Output file is already uptodate.
+<iiitglogo-eps-converted-to.pdf, id=201, 83.31125pt x 79.29625pt>
+File: iiitglogo-eps-converted-to.pdf Graphic file (type pdf)
+<use iiitglogo-eps-converted-to.pdf>
+Package pdftex.def Info: iiitglogo-eps-converted-to.pdf  used on input line 332
+.
+(pdftex.def)             Requested size: 86.72377pt x 82.54962pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
+32.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/psn
+fss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2
+
+
+ <./iiitglogo-eps-converted-to.pdf>] [3
+
+
+] [4
+
+
+]
+(texfiles/acknowledgments.tex) [5
+
+
+] (texfiles/abstract.tex) [6
+
+
+]
+(texfiles/abrreviation.tex
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+fonts\umsa.fd")
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/ams
+fonts\umsb.fd")) [7
+
+
+
+
+] (thesis.toc [8
+
+
+
+
+
+
+
+])
+\tf@toc=\write6
+\openout6 = `thesis.toc'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (9.03374pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[9] (thesis.lof
+
+LaTeX Warning: Citation `namitk2011' on page x undefined on input line 3.
+
+
+LaTeX Warning: Citation `Alla2019BeginningAD' on page x undefined on input line
+ 4.
+
+
+LaTeX Warning: Citation `sayakpaul2019' on page x undefined on input line 5.
+
+
+LaTeX Warning: Citation `ABriefOv32:online' on page x undefined on input line 6
+.
+
+
+LaTeX Warning: Citation `Historic96:online' on page x undefined on input line 7
+.
+
+
+LaTeX Warning: Citation `silviavalcheva' on page x undefined on input line 8.
+
+
+LaTeX Warning: Citation `Generali53:online' on page x undefined on input line 9
+.
+
+
+LaTeX Warning: Citation `WhatisCl88:online' on page x undefined on input line 1
+1.
+
+
+LaTeX Warning: Citation `AmazonGu40:online' on page x undefined on input line 1
+2.
+
+
+LaTeX Warning: Citation `Identify70:online' on page x undefined on input line 1
+3.
+
+
+LaTeX Warning: Citation `Virtuali40:online' on page x undefined on input line 1
+4.
+
+)
+\tf@lof=\write7
+\openout7 = `thesis.lof'.
+
+ [10
+
+
+
+] (thesis.lot
+
+LaTeX Warning: Citation `silviavalcheva' on page xi undefined on input line 3.
+
+)
+\tf@lot=\write8
+\openout8 = `thesis.lot'.
+
+ [11
+
+
+
+] (texfiles/chapter1.tex
+Chapter 1.
+[1
+
+
+
+
+
+
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+[3]) [4] (texfiles/chapter2.tex
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+[5
+
+
+
+] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+[7] [8]
+
+LaTeX Warning: Citation `fernandes2014security' on page 9 undefined on input li
+ne 42.
+
+
+LaTeX Warning: Citation `de2019cyber' on page 9 undefined on input line 43.
+
+
+LaTeX Warning: Citation `linthicum2017connecting' on page 9 undefined on input 
+line 44.
+
+
+LaTeX Warning: Citation `shen2017block' on page 9 undefined on input line 45.
+
+
+LaTeX Warning: Citation `shirazi2017extended' on page 9 undefined on input line
+ 46.
+
+
+LaTeX Warning: Citation `shirazi2017extended' on page 9 undefined on input line
+ 47.
+
+
+LaTeX Warning: Citation `kolias2017ddos' on page 9 undefined on input line 48.
+
+[9] [10]
+<texfiles/images/cloud services comparison.png, id=376, 604.2575pt x 330.23375p
+t>
+File: texfiles/images/cloud services comparison.png Graphic file (type png)
+<use texfiles/images/cloud services comparison.png>
+Package pdftex.def Info: texfiles/images/cloud services comparison.png  used on
+ input line 53.
+(pdftex.def)             Requested size: 284.52756pt x 155.49709pt.
+
+
+LaTeX Warning: Citation `namitk2011' on page 11 undefined on input line 54.
+
+
+LaTeX Warning: Citation `namitk2011' on page 11 undefined on input line 54.
+
+[11 <./texfiles/images/cloud services comparison.png>]
+<texfiles/images/image1.jpg, id=383, 472.01344pt x 243.91125pt>
+File: texfiles/images/image1.jpg Graphic file (type jpg)
+<use texfiles/images/image1.jpg>
+Package pdftex.def Info: texfiles/images/image1.jpg  used on input line 65.
+(pdftex.def)             Requested size: 284.52756pt x 147.02896pt.
+
+
+LaTeX Warning: Citation `Alla2019BeginningAD' on page 12 undefined on input lin
+e 66.
+
+
+LaTeX Warning: Citation `Alla2019BeginningAD' on page 12 undefined on input lin
+e 66.
+
+
+LaTeX Warning: Citation `Sari2015' on page 12 undefined on input line 69.
+
+<texfiles/images/global outlier.jpg, id=384, 230.36063pt x 108.405pt>
+File: texfiles/images/global outlier.jpg Graphic file (type jpg)
+<use texfiles/images/global outlier.jpg>
+Package pdftex.def Info: texfiles/images/global outlier.jpg  used on input line
+ 76.
+(pdftex.def)             Requested size: 284.52756pt x 133.90471pt.
+
+LaTeX Warning: Citation `sayakpaul2019' on page 12 undefined on input line 77.
+
+
+LaTeX Warning: Citation `sayakpaul2019' on page 12 undefined on input line 77.
+
+<texfiles/images/contextual outlier.png, id=385, 490.08093pt x 288.3272pt>
+File: texfiles/images/contextual outlier.png Graphic file (type png)
+<use texfiles/images/contextual outlier.png>
+Package pdftex.def Info: texfiles/images/contextual outlier.png  used on input 
+line 87.
+(pdftex.def)             Requested size: 284.52756pt x 167.39706pt.
+
+LaTeX Warning: Citation `ABriefOv32:online' on page 12 undefined on input line 
+88.
+
+
+LaTeX Warning: Citation `ABriefOv32:online' on page 12 undefined on input line 
+88.
+
+[12 <./texfiles/images/image1.jpg>]
+<texfiles/images/collective anomaly.jpg, id=390, 423.08063pt x 240.9pt>
+File: texfiles/images/collective anomaly.jpg Graphic file (type jpg)
+<use texfiles/images/collective anomaly.jpg>
+Package pdftex.def Info: texfiles/images/collective anomaly.jpg  used on input 
+line 99.
+(pdftex.def)             Requested size: 284.52756pt x 162.01234pt.
+
+
+LaTeX Warning: Citation `Historic96:online' on page 13 undefined on input line 
+100.
+
+
+LaTeX Warning: Citation `Historic96:online' on page 13 undefined on input line 
+100.
+
+[13 <./texfiles/images/global outlier.jpg> <./texfiles/images/contextual outlie
+r.png>]
+<texfiles/images/anomaly-detection-algorithms.jpg, id=396, 810.77907pt x 429.10
+312pt>
+File: texfiles/images/anomaly-detection-algorithms.jpg Graphic file (type jpg)
+<use texfiles/images/anomaly-detection-algorithms.jpg>
+Package pdftex.def Info: texfiles/images/anomaly-detection-algorithms.jpg  used
+ on input line 109.
+(pdftex.def)             Requested size: 284.52756pt x 150.58774pt.
+
+
+LaTeX Warning: Citation `silviavalcheva' on page 14 undefined on input line 110
+.
+
+
+LaTeX Warning: Citation `silviavalcheva' on page 14 undefined on input line 110
+.
+
+[14 <./texfiles/images/collective anomaly.jpg> <./texfiles/images/anomaly-detec
+tion-algorithms.jpg>]
+<texfiles/images/2 variables.png, id=402, 1056.19594pt x 544.28343pt>
+File: texfiles/images/2 variables.png Graphic file (type png)
+<use texfiles/images/2 variables.png>
+Package pdftex.def Info: texfiles/images/2 variables.png  used on input line 13
+2.
+(pdftex.def)             Requested size: 284.52756pt x 146.61798pt.
+
+
+LaTeX Warning: Citation `Generali53:online' on page 15 undefined on input line 
+133.
+
+
+LaTeX Warning: Citation `Generali53:online' on page 15 undefined on input line 
+133.
+
+[15 <./texfiles/images/2 variables.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+[16] [17] Excluding 'comment' comment. Excluding 'comment' comment.
+
+LaTeX Warning: Citation `silviavalcheva' on page 18 undefined on input line 220
+.
+
+
+LaTeX Warning: Citation `silviavalcheva' on page 18 undefined on input line 220
+.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+[]\OT1/ptm/m/n/10.95 Good for cre-at-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 mod-els that in-clude
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 220--220
+[]|\OT1/ptm/m/n/10.95 Large Stor-age re-quire-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 Com-pu-ta-tion-ally Ex-pen-sive
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 Sen-si-tive to the choice of
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 the sim-i-lar-ity func-tion for
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 Only work with nu-mer-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+[]|\OT1/ptm/m/n/10.95 Find the best sep-a-ra-tion
+ []
+
+
+Underfull \hbox (badness 4569) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 hyper-plane.Deal with very
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 Can learn very elab-o-rate
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 220--220
+[]|\OT1/ptm/m/n/10.95 Require both pos-i-tive and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 Some nu-mer-i-cal sta-bil-ity
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 220--220
+\OT1/ptm/m/n/10.95 prob-lems.Need to se-lect a
+ []
+
+) [18] [19] (texfiles/chapter3.tex
+Chapter 3.
+
+LaTeX Warning: Citation `density' on page 20 undefined on input line 9.
+
+
+LaTeX Warning: Citation `microsoft' on page 20 undefined on input line 12.
+
+<texfiles/images/proxy-architecture.png, id=431, 743.02594pt x 673.01437pt>
+File: texfiles/images/proxy-architecture.png Graphic file (type png)
+<use texfiles/images/proxy-architecture.png>
+Package pdftex.def Info: texfiles/images/proxy-architecture.png  used on input 
+line 16.
+(pdftex.def)             Requested size: 284.52756pt x 257.71983pt.
+
+LaTeX Warning: Citation `WhatisCl88:online' on page 20 undefined on input line 
+17.
+
+
+LaTeX Warning: Citation `WhatisCl88:online' on page 20 undefined on input line 
+17.
+
+
+Overfull \hbox (5.53928pt too wide) in paragraph at lines 11--25
+\OT1/ptm/m/n/10.95 In Cloud Com-put-ing ser-vices se-cu-rity is a se-ries of do
+c-u-mented pro-cesses and frame works.Which
+ []
+
+[20
+
+
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `microsf41' on page 21 undefined on input line 26.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+[21]
+Overfull \hbox (25.39134pt too wide) in paragraph at lines 32--33
+\OT1/ptm/m/n/10.95 It looks for bad ac-tors by us-ing the in-for-ma-tion ob-tai
+ned via Mi-crosoft Prod-ucts and ser-vices,Microsoft
+ []
+
+
+Overfull \hbox (0.74268pt too wide) in paragraph at lines 32--33
+\OT1/ptm/m/n/10.95 Dig-i-tal Crimes Unit and Mi-crosoft Se-cu-rity Re-sponse Ce
+n-tre along with ex-ter-nal feeds.Microsoft
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+[22 <./texfiles/images/proxy-architecture.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+LaTeX Warning: Citation `fusion_analytics' on page 23 undefined on input line 3
+8.
+
+
+LaTeX Warning: Citation `mslinks2' on page 23 undefined on input line 39.
+
+
+LaTeX Warning: Citation `amazon2' on page 23 undefined on input line 41.
+
+
+LaTeX Warning: Citation `cloudwatch' on page 23 undefined on input line 41.
+
+[23]
+<texfiles/images/gd.jpg, id=453, 960.58875pt x 398.23781pt>
+File: texfiles/images/gd.jpg Graphic file (type jpg)
+<use texfiles/images/gd.jpg>
+Package pdftex.def Info: texfiles/images/gd.jpg  used on input line 45.
+(pdftex.def)             Requested size: 426.79134pt x 176.93878pt.
+
+Overfull \hbox (8.53766pt too wide) in paragraph at lines 45--46
+ [] 
+ []
+
+
+LaTeX Warning: Citation `AmazonGu40:online' on page 24 undefined on input line 
+46.
+
+
+LaTeX Warning: Citation `AmazonGu40:online' on page 24 undefined on input line 
+46.
+
+
+LaTeX Warning: Citation `google31' on page 24 undefined on input line 51.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+<texfiles/images/security1.png, id=454, 539.01375pt x 203.76125pt>
+File: texfiles/images/security1.png Graphic file (type png)
+<use texfiles/images/security1.png>
+Package pdftex.def Info: texfiles/images/security1.png  used on input line 63.
+(pdftex.def)             Requested size: 398.33858pt x 150.58508pt.
+
+LaTeX Warning: Citation `Identify70:online' on page 24 undefined on input line 
+64.
+
+
+LaTeX Warning: Citation `Identify70:online' on page 24 undefined on input line 
+64.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<texfiles/images/hypervisor1.jpg, id=455, 307.90031pt x 257.46187pt>
+File: texfiles/images/hypervisor1.jpg Graphic file (type jpg)
+<use texfiles/images/hypervisor1.jpg>
+Package pdftex.def Info: texfiles/images/hypervisor1.jpg  used on input line 82
+.
+(pdftex.def)             Requested size: 426.82443pt x 170.71892pt.
+
+Overfull \hbox (8.57076pt too wide) in paragraph at lines 82--83
+ [] 
+ []
+
+
+LaTeX Warning: Citation `Virtuali40:online' on page 24 undefined on input line 
+83.
+
+
+LaTeX Warning: Citation `Virtuali40:online' on page 24 undefined on input line 
+83.
+
+[24 <./texfiles/images/gd.jpg>] [25 <./texfiles/images/security1.png>]
+
+LaTeX Warning: Citation `roch' on page 26 undefined on input line 109.
+
+
+LaTeX Warning: Citation `Sari2015' on page 26 undefined on input line 109.
+
+[26 <./texfiles/images/hypervisor1.jpg>]
+
+LaTeX Warning: Citation `pannu' on page 27 undefined on input line 112.
+
+
+LaTeX Warning: Citation `dhanl' on page 27 undefined on input line 121.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--123
+
+ []
+
+
+LaTeX Warning: Citation `CHEN20052617' on page 27 undefined on input line 126.
+
+
+LaTeX Warning: Citation `capgemini1' on page 27 undefined on input line 127.
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 130--145
+
+ []
+
+) [28] (texfiles/chapter4.tex
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 13.
+
+<texfiles/images/code1.jpg, id=482, 822.07124pt x 209.28188pt>
+File: texfiles/images/code1.jpg Graphic file (type jpg)
+<use texfiles/images/code1.jpg>
+Package pdftex.def Info: texfiles/images/code1.jpg  used on input line 23.
+(pdftex.def)             Requested size: 426.79134pt x 108.65155pt.
+
+Overfull \hbox (8.53766pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--26
+
+ []
+
+[29
+
+
+
+]
+<texfiles/images/code2.jpg, id=487, 819.8128pt x 213.04594pt>
+File: texfiles/images/code2.jpg Graphic file (type jpg)
+<use texfiles/images/code2.jpg>
+Package pdftex.def Info: texfiles/images/code2.jpg  used on input line 30.
+(pdftex.def)             Requested size: 426.79134pt x 110.91455pt.
+
+Overfull \hbox (8.53766pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+<texfiles/images/code3.jpg, id=488, 288.3272pt x 310.91156pt>
+File: texfiles/images/code3.jpg Graphic file (type jpg)
+<use texfiles/images/code3.jpg>
+Package pdftex.def Info: texfiles/images/code3.jpg  used on input line 40.
+(pdftex.def)             Requested size: 184.70035pt x 199.16928pt.
+
+Overfull \hbox (5.3533pt too wide) in paragraph at lines 35--44
+\OT1/ptm/m/n/10.95 data, let's have a look at how the la-bels are dis-tributed.
+ kdd[]data[]10percent['label'].value[]counts()
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30 <./texfiles/images/code1.jpg> <./texfiles/images/code2.jpg>]
+Excluding 'comment' comment.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
+16.
+
+("C:\Users\Bipin Kumar Mishr\tapas data\installation\latex\miktex\tex/latex/psn
+fss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (81.06572pt too wide) in paragraph at lines 123--123
+[]\OT1/pcr/m/n/10.95 features_train, features_test, labels_train, labels_test =
+ train_test_split([] 
+ []
+
+
+Overfull \hbox (15.06583pt too wide) in paragraph at lines 133--138
+\OT1/ptm/m/n/10.95 KNearestneighbor can use any of the fol-low-ing al-go-rithms
+ ``auto``, ``ball[]tree``, ``kd[]tree``, ``brute``,the
+ []
+
+[31 <./texfiles/images/code3.jpg>]
+Overfull \hbox (15.3658pt too wide) in paragraph at lines 176--176
+[]\OT1/pcr/m/n/10.95 precision = precision_score(labels_test, pred, average="we
+ighted")[] 
+ []
+
+[32]) [33] (texfiles/conclusion.tex
+Chapter 5.
+) [34
+
+
+
+]
+No file thesis.bbl.
+(texfiles/cv.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 434.
+ [35
+
+
+
+
+
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 434.
+ (thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 434.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 434.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 9D5652F0EBFA284A3004A9C9B2359AB6;3400.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 434.
+ ) 
+Here is how much of TeX's memory you used:
+ 12465 strings out of 481556
+ 195846 string characters out of 2906857
+ 474226 words of memory out of 3000000
+ 27197 multiletter control sequences out of 15000+200000
+ 561205 words of font info for 88 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 50i,11n,89p,1987b,570s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Bipin Kumar Mishr/tapas data/installation/latex/miktex/fonts/enc/dv
+ips/base/8r.enc}<C:/Users/Bipin Kumar Mishr/tapas data/installation/latex/mikte
+x/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Bipin Kumar Mishr/tapas d
+ata/installation/latex/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/User
+s/Bipin Kumar Mishr/tapas data/installation/latex/miktex/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Users/Bipin Kumar Mishr/tapas data/installation/latex/m
+iktex/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Bipin Kumar Mishr/tapas data
+/installation/latex/miktex/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Bipin Kum
+ar Mishr/tapas data/installation/latex/miktex/fonts/type1/urw/times/utmbi8a.pfb
+><C:/Users/Bipin Kumar Mishr/tapas data/installation/latex/miktex/fonts/type1/u
+rw/times/utmr8a.pfb><C:/Users/Bipin Kumar Mishr/tapas data/installation/latex/m
+iktex/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Bipin Kumar Mishr/tapas data/i
+nstallation/latex/miktex/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (46 pages, 1072206 bytes).
+PDF statistics:
+ 584 PDF objects out of 1000 (max. 8388607)
+ 134 named destinations out of 1000 (max. 500000)
+ 460 words of extra memory for PDF output out of 10000 (max. 10000000)
+

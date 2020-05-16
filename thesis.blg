@@ -1,0 +1,33 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: unsrt.bst
+Database file #1: biblio.bib
+Warning--entry type for "microsf41" isn't style-file defined
+--line 67 of file biblio.bib
+Warning--entry type for "mslinks2" isn't style-file defined
+--line 72 of file biblio.bib
+Warning--entry type for "amazon2" isn't style-file defined
+--line 76 of file biblio.bib
+Warning--entry type for "google31" isn't style-file defined
+--line 81 of file biblio.bib
+Warning--entry type for "capgemini1" isn't style-file defined
+--line 125 of file biblio.bib
+Warning--entry type for "cloudwatch" isn't style-file defined
+--line 186 of file biblio.bib
+Warning--entry type for "fusion_analytics" isn't style-file defined
+--line 191 of file biblio.bib
+Warning--entry type for "microsoft" isn't style-file defined
+--line 197 of file biblio.bib
+Warning--entry type for "density" isn't style-file defined
+--line 203 of file biblio.bib
+Warning--entry type for "namitk2011" isn't style-file defined
+--line 210 of file biblio.bib
+Warning--entry type for "sayakpaul2019" isn't style-file defined
+--line 229 of file biblio.bib
+Warning--empty booktitle in Historic96:online
+Too many commas in name 1 of "Pannu, H.S., Liu, J.G. and Fu, S." for entry pannu
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in pannu
+Warning--empty year in pannu
+Name 1 in "Y. Dhanalakshmi, and I. Ramesh Babu" has a comma at the end for entry dhanl
+while executing---line 944 of file unsrt.bst
+(There were 2 error messages)

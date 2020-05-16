@@ -1,0 +1,50 @@
+\contentsline {chapter}{Table of Contents}{viii}{section*.2}%
+\contentsline {chapter}{List of Figures}{x}{section*.4}%
+\contentsline {chapter}{List of Tables}{xi}{section*.6}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objective of the thesis}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Contribution of the thesis}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}First contribution}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Second contribution}{3}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Organization of the thesis}{3}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Deployment Models of Clouds}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Cloud Service Categories}{7}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}IaaS}{8}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}PaaS}{8}{subsubsection.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.1.3}SaaS}{8}{subsubsection.2.1.1.3}%
+\contentsline {subsection}{\numberline {2.1.2}Security Concerns}{9}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Cloud Services Comparison}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Type of Anomalies}{11}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Global anomaly}{12}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Contextual Anomaly}{12}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Collective Anomaly}{13}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Density-Based Anomaly Detection}{15}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Clustering-Based Anomaly Detection }{15}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Support Vector Machine-Based Anomaly Detection}{15}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Anomaly detection algorithms categories}{16}{subsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.7.1}K-nearest neighbor: k-NN}{16}{subsubsection.2.3.7.1}%
+\contentsline {subsubsection}{\numberline {2.3.7.2}Local Outlier Factor (LOF)}{16}{subsubsection.2.3.7.2}%
+\contentsline {subsubsection}{\numberline {2.3.7.3} K-means}{16}{subsubsection.2.3.7.3}%
+\contentsline {subsubsection}{\numberline {2.3.7.4}Support Vector Machine (SVM)}{17}{subsubsection.2.3.7.4}%
+\contentsline {subsubsection}{\numberline {2.3.7.5}Neural Networks Based Anomaly Detection}{17}{subsubsection.2.3.7.5}%
+\contentsline {chapter}{\numberline {3}First Contribution}{20}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Outlier Detection}{20}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Security Framework}{20}{section.3.2}%
+\contentsline {section}{\numberline {3.3}How Microsoft Detects Anomaly in Azure}{21}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Intelligent Threat Intelligence}{22}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Behavioral Analytics}{23}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Fusion Analytics}{23}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}How Amazon Finds Anomalies in AWS}{23}{section.3.4}%
+\contentsline {section}{\numberline {3.5}How Google finds anomalies in GCP cloud }{24}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Finding Anomaly in Cloud}{25}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Building the Anomaly Detection System}{26}{subsection.3.6.1}%
+\contentsline {section}{\numberline {3.7}Detecting the deviation}{26}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Building a classifier}{28}{section.3.8}%
+\contentsline {chapter}{\numberline {4}Second Contribution}{29}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}Data Description}{29}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}Feature selection}{30}{subsection.4.0.2}%
+\contentsline {chapter}{\numberline {5}Conclusion}{34}{chapter.5}%
+\contentsline {chapter}{Bibliography}{35}{section*.23}%
+\contentsline {chapter}{Author's Biography}{35}{section*.24}%
