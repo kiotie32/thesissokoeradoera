@@ -1,0 +1,189 @@
+\begin{thebibliography}{10}
+
+\bibitem{namitk2011}
+Namit Kabra.
+\newblock Cloud computing – i (fundamentals).
+\newblock
+  \url{https://namitkabra.wordpress.com/2011/11/14/cloud-computing-i-fundamentals/},
+  November 2011.
+
+\bibitem{Alla2019BeginningAD}
+Sridhar Alla and Suman~Kalyan Adari.
+\newblock {\em Beginning Anomaly Detection Using Python-Based Deep Learning}.
+\newblock Apress, 2019.
+
+\bibitem{sayakpaul2019}
+Sayak Paul.
+\newblock Introduction to anomaly detection in python.
+\newblock \url{
+  https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/}, apr
+  2019.
+
+\bibitem{ABriefOv32:online}
+Sergio Santoyo.
+\newblock A brief overview of outlier detection techniques - towards data
+  science.
+\newblock
+  \url{https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561},
+  September 2017.
+
+\bibitem{Historic96:online}
+Daniel Berhane~Araya, Katarina Grolinger, Hany El~Yamany, Miriam Capretz, and
+  G.~Bitsuamlak.
+\newblock Collective contextual anomaly detection framework for smart
+  buildings.
+\newblock 07 2016.
+
+\bibitem{silviavalcheva}
+Silvia Valcheva.
+\newblock {5 Anomaly detection algorithms in data mining (with comparison)}.
+\newblock \url {http://intellspot.com/anomaly-detection-algorithms/}.
+
+\bibitem{Generali53:online}
+David Cournapeau.
+\newblock Generalized linear models — scikits.learn v0.6-git documentation.
+\newblock \url{http://scikit-learn.sourceforge.net/0.5/modules/glm.html}.
+
+\bibitem{WhatisCl88:online}
+Microsoft.
+\newblock What is cloud app security? | microsoft docs.
+\newblock
+  \url{https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security}.
+
+\bibitem{AmazonGu40:online}
+Amazon.
+\newblock Amazon guardduty – intelligent threat detection - aws.
+\newblock \url{https://aws.amazon.com/guardduty/?nc1=h_ls}.
+
+\bibitem{Identify70:online}
+Google.
+\newblock Identify and predict anomalies in firewall rules with forseti.
+\newblock
+  \url{https://cloud.google.com/solutions/partners/forseti-firewall-rules-anomalies}.
+
+\bibitem{Virtuali40:online}
+Ankit Pandey.
+\newblock Virtualization technologies in spi.
+\newblock
+  \url{https://www.ques10.com/p/47790/virtualization-technologies-in-spi-1/}.
+
+\bibitem{fernandes2014security}
+Diogo~AB Fernandes, Liliana~FB Soares, Jo{\~a}o~V Gomes, M{\'a}rio~M Freire,
+  and Pedro~RM In{\'a}cio.
+\newblock Security issues in cloud environments: a survey.
+\newblock {\em International Journal of Information Security}, 13(2):113--170,
+  2014.
+
+\bibitem{de2019cyber}
+Michele De~Donno, Alberto Giaretta, Nicola Dragoni, Antonio Bucchiarone, and
+  Manuel Mazzara.
+\newblock Cyber-storms come from clouds: Security of cloud computing in the iot
+  era.
+\newblock {\em Future Internet}, 11(6):127, 2019.
+
+\bibitem{linthicum2017connecting}
+David~S Linthicum.
+\newblock Connecting fog and cloud computing.
+\newblock {\em IEEE Cloud Computing}, 4(2):18--20, 2017.
+
+\bibitem{shen2017block}
+Jian Shen, Tianqi Zhou, Debiao He, Yuexin Zhang, Xingming Sun, and Yang Xiang.
+\newblock Block design-based key agreement for group data sharing in cloud
+  computing.
+\newblock {\em IEEE Transactions on Dependable and Secure Computing}, 2017.
+
+\bibitem{shirazi2017extended}
+Syed~Noorulhassan Shirazi, Antonios Gouglidis, Arsham Farshad, and David
+  Hutchison.
+\newblock The extended cloud: Review and analysis of mobile edge computing and
+  fog from a security and resilience perspective.
+\newblock {\em IEEE Journal on Selected Areas in Communications},
+  35(11):2586--2595, 2017.
+
+\bibitem{kolias2017ddos}
+Constantinos Kolias, Georgios Kambourakis, Angelos Stavrou, and Jeffrey Voas.
+\newblock Ddos in the iot: Mirai and other botnets.
+\newblock {\em Computer}, 50(7):80--84, 2017.
+
+\bibitem{Sari2015}
+Arif Sari.
+\newblock A review of anomaly detection systems in cloud networks and survey of
+  cloud security measures in cloud storage applications.
+\newblock {\em Journal of Information Security}, 06(02):142--154, 2015.
+
+\bibitem{density}
+Daniel Chepenko.
+\newblock A density based algorithm for outlier detection.
+\newblock
+  \url{https://towardsdatascience.com/density-based-algorithm-for-outlier-detection-8f278d2f7983}.
+
+\bibitem{microsoft}
+Microsoft.
+\newblock Discover and manage shadow it in your network.
+\newblock
+  \url{https://docs.microsoft.com/en-us/cloud-app-security/tutorial-shadow-it}.
+
+\bibitem{microsf41}
+Microsoft.
+\newblock Microsoft way of detecting threats.
+\newblock
+  \url{https://docs.microsoft.com/en-us/azure/security-center/security-center-alerts-overview}.
+
+\bibitem{fusion_analytics}
+Microsoft.
+\newblock Advanced multistage attack detection in azure sentinel.
+\newblock \url{https://docs.microsoft.com/en-us/azure/sentinel/fusion}.
+
+\bibitem{mslinks2}
+Cloud smart alert correlation in azure security centre.
+\newblock
+  \url{https://docs.microsoft.com/en-us/azure/security-center/security-center-alerts-cloud-smart}.
+
+\bibitem{amazon2}
+Amazon.
+\newblock Amazon guard duty.
+\newblock \url{https://aws.amazon.com/guardduty/}.
+
+\bibitem{cloudwatch}
+Amazon.
+\newblock What is amazon cloud watch events.
+\newblock
+  \url{https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/WhatIsCloudWatchEvents.html}.
+
+\bibitem{google31}
+Google.
+\newblock Forsetti intelligent agents.
+\newblock
+  \url{https://cloud.google.com/solutions/partners/forseti-firewall-rules-anomalies}.
+
+\bibitem{roch}
+S.~{Roschke}, F.~{Cheng}, and C.~{Meinel}.
+\newblock Intrusion detection in the cloud.
+\newblock In {\em 2009 Eighth IEEE International Conference on Dependable,
+  Autonomic and Secure Computing}, pages 729--734, Dec 2009.
+
+\bibitem{pannu}
+Liu~J.G. Pannu, H.S. and S.~Fu.
+\newblock Aad: Adaptive anomaly detection system for cloud computing
+  infrastructures.
+
+\bibitem{dhanl}
+Y.~Dhanalakshmi and I.~Ramesh Babu.
+\newblock Intrusion detection using data mining along fuzzy logic and genetic
+  algorithms.
+\newblock {\em International Journal of Computer Science \& Security},
+  8:27–32, 2008.
+
+\bibitem{CHEN20052617}
+Wun-Hwa Chen, Sheng-Hsun Hsu, and Hwang-Pin Shen.
+\newblock Application of svm and ann for intrusion detection.
+\newblock {\em Computers \& Operations Research}, 32(10):2617 -- 2634, 2005.
+\newblock Applications of Neural Networks.
+
+\bibitem{capgemini1}
+Capgemini.
+\newblock Anomaly detection with machine learning powered by google cloud.
+\newblock
+  \url{https://www.capgemini.com/resources/anomaly-detection-with-machine-learning-powered-by-google-cloud/}.
+
+\end{thebibliography}
